@@ -33,12 +33,6 @@ I enjoy exploring new tools and building fun or useful things as I grow my skill
 
 ---
 
-## 📈 GitHub Stats
-
-![piwi11's GitHub stats](https://github-readme-stats.vercel.app/api?username=piwi11&show_icons=true&theme=radical&count_private=true)
-
----
-
 ## 🌐 Find Me Online
 
 [![My Website](https://img.shields.io/badge/Website-martinzubillaga.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://martinzubillaga.com)
